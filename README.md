@@ -95,9 +95,3 @@ The results also show why accuracy alone can be misleading for highly imbalanced
 - Scikit-learn
 - NumPy
 
-## Future Work
-
-- Improve recognition of rare entity types.
-- Explore alternative class-weighting strategies.
-- Investigate additional Amharic NER datasets.
-- Experiment with different multilingual and language-specific transformer models.
