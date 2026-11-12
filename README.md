@@ -1,7 +1,5 @@
 # Amharic Named Entity Recognition (NER) Using XLM-RoBERTa
 
-**Author:** Elshaday Desalegn  
-**Date:** December 30, 2025
 
 ## Overview
 
